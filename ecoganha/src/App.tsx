@@ -8,12 +8,12 @@ import './index.css'
 function App() {
 
   return (
-    <div>
+    <div className='bg-gray-100 m-0 p-0'>
       <Header />
       <Hero />
-      {/* <About />
+      <About />
       <Cta />
-      <Footer /> */}
+      <Footer />
     </div>
   )
 }
