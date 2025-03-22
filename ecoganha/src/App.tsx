@@ -1,3 +1,4 @@
+"use client"
 import { About } from './components/About'
 import { Cta } from './components/Cta'
 import { Footer } from './components/Footer'
