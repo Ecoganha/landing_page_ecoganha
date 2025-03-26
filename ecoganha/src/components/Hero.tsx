@@ -1,4 +1,4 @@
-import { Btn } from "./Btn"
+import { Btn } from "./Btn";
 
 export const Hero = () => {
     return (
@@ -11,6 +11,7 @@ export const Hero = () => {
                     <Btn />
                 </div>
             </div>
+            <img className="w-full max-w-[400px] md:max-w-[500px] md:ml-10" src="./src/assets/img_hero.png" alt="imagem de funções no celular" />
         </div>
-    )
-}
+    );
+};
